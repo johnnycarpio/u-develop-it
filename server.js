@@ -15,7 +15,7 @@ const db = mysql.createConnection({
   // Your MySQL username,
   user: 'root',
   // Your MySQL password
-  password: '',
+  password: 'Jani@1236363',
   database: 'election'
 });
 
